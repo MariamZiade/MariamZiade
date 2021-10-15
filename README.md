@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MariamZiade
 - 🌱 I’m a UI UX Designer interested in developing myself further in React JS Next JS and Node JS Express
 - 💞️ I’m looking to collaborate on UI UX Projects, Front-end Web Development, Product Management
+- 👀 Not all my repos are made public
 - 📫 Reach me on: mariam.ziade@gmail.com
